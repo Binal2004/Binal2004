@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 I'm currently a student of **MSc Artificial Intelligence & Data Science at University of Mumbai (2026 batch)**
+- 🔭 I'm currently a student of **MSc Artificial Intelligence & Data Science at University of Mumbai**
 - 🌱 I'm currently learning **Palantir Foundry, Advanced ML techniques, and Business Analytics**
 - 👯 I'm looking to collaborate on **Data Science, Data Analytics, and AI/ML projects**
 - 🤔 I'm looking for help with **Exploring opportunities in Data Science and Business Analytics roles**
