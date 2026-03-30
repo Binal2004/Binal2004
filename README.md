@@ -60,53 +60,13 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📈 [Global Stock Market Analytics](https://github.com/Binal2004)
-> Analyzed 120K+ records across global stock markets. Achieved **r = 0.83** Dow Jones correlation and built a NIFTY 50 binary classification model.
-> `Python` `Pandas` `Scikit-learn` `Visualization`
-
-### 🤟 [Real-Time Sign Language Recognition](https://github.com/Binal2004)
-> Deep learning system using **CNN-LSTM** architecture for real-time sign language detection via webcam.
-> `Python` `TensorFlow` `OpenCV` `CNN` `LSTM`
-
-### ✍️ [AirWrite — Gesture Recognition](https://github.com/Binal2004)
-> Air-writing system using hand gesture recognition for text input without physical contact.
-> `Python` `OpenCV` `MediaPipe` `Deep Learning`
-
-### 🏠 [Propeak Real Estate Analytics](https://github.com/Binal2004)
-> Collaborative analytics project for real estate market insights and price prediction.
-> `Python` `EDA` `ML` `Data Visualization`
-
-### 🚚 [Smart Last-Minute Delivery System](https://github.com/Binal2004)
-> Optimized last-mile delivery routing system using algorithmic approaches for real-time logistics.
-> `Python` `Optimization` `Algorithms`
-
----
-
 ## 📜 Certifications
 
+- 🏅 **Tata Forage** —  GenAI Powered Data Analytics Job Simulation
 - 🏅 **Deloitte Forage** — Data Analytics Virtual Experience
 - 🏅 **Tata Forage** — Data Visualisation: Empowering Business with Effective Insights
 - 🏅 **Meta / Coursera** — Data Science Professional Certificate
 - 🏅 **Udemy** — Machine Learning & Data Science
-
----
-
-## 💼 Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| Data Science Intern | The Developers Arena | Apr 2026 – Present |
-| Data Science Trainee | Sankhya Analytical Research Pvt. Ltd. | Dec 2025 – Feb 2026 |
-| Web Developer Intern | Flylines India | May 2023 – Aug 2023 |
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Rank** — Blind Coding Competition
-- 📊 CGPI: **8.48** (BSc Information Technology)
 
 ---
 
